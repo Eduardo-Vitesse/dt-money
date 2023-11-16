@@ -23,6 +23,14 @@
       "category": "Educação",
       "price": 1800,
       "createdAt": "2022-09-29T19:36:44.5057"
+    },
+    {
+      "description": "Aplivativo em React Native",
+      "price": 10000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-11-16T13:18:12.635Z",
+      "id": 4
     }
   ]
 }

@@ -17,7 +17,7 @@ import { useContextSelector } from "use-context-selector";
 
 const newTransactionFormSchema = z.object({
   description: z.string(),
-  price: z.string(),
+  price: z.number(),
   category: z.string(),
   type: z.enum(["income", "outcome"]),
 });
